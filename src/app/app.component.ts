@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { OnInit, OnDestroy, OnChanges } from '@angular/core/src/metadata/lifecycle_hooks';
+//import { OnInit, OnDestroy, OnChanges } from '@angular/core/src/metadata/lifecycle_hooks';
 
 @Component({
   selector: 'app-root',
@@ -9,4 +9,3 @@ import { OnInit, OnDestroy, OnChanges } from '@angular/core/src/metadata/lifecyc
 export class AppComponent{
   title = 'Angular';
 }
-
